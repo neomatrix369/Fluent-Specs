@@ -1,0 +1,7 @@
+
+
+FluentSpecs	- Apache license
+
+JUnit		- Common Public License
+Hamcrest	- BSD license
+Mockito		- MIT license
