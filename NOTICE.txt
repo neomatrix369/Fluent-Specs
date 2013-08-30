@@ -1,6 +1,6 @@
 
 
-FluentSpecs	- Apache license
+FluentSpecs	- MIT license
 
 JUnit		- Common Public License
 Hamcrest	- BSD license
